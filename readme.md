@@ -58,7 +58,7 @@ Official documentation of Yajra DataTables is available at [yajra.com](http://ya
 
 
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Amit Bauriya via [amit001bauriya@gmail.com](mailto:amit001bauriya@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Amit Bauriya via [farahxm122@gmail.com](mailto:farahxm122@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ### License
 
