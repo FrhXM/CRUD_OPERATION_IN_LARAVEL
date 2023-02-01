@@ -1,5 +1,3 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"><br>
-<img src="https://img.shields.io/badge/laravel-5.8-orange.svg"> <img src="https://img.shields.io/badge/yajra-9.x-blueviolet.svg"> <img src="https://img.shields.io/badge/license-MIT-blue.svg"> <img src="https://img.shields.io/badge/build-passing-green.svg"></p>
 
 ## Laravel Datatables Crud Introduction
 
