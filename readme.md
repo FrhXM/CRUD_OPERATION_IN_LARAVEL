@@ -56,4 +56,4 @@ Official documentation of Yajra DataTables is available at [yajra.com](http://ya
 	Run http://localhost:8000 in web browser
 
 ### Screenshot
-[![Screenshot](https://github.com/amitbauriya/laravel-datatables-crud/blob/master/screenshot.png?raw=true "Screenshot")](https://github.com/amitbauriya/laravel-datatables-crud/blob/master/screenshot.png?raw=true "Screenshot")
+[![Screenshot](https://raw.githubusercontent.com/FrhXM/CRUD_OPERATION_IN_LARAVEL/main/curd.png "Screenshot")](https://github.com/amitbauriya/laravel-datatables-crud/blob/master/screenshot.png?raw=true "Screenshot")
