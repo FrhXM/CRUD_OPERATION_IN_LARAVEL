@@ -1,8 +1,14 @@
 
 ## Laravel Datatables Crud Introduction
 
-<p>This project is created to handle crud operations through Yajra DataTables plugin via AJAX option.<br><br>
-Data tables whose behavior and appearance have be extended by components. For example authentication with email verify support, sorting, pagination or search the table. Added Import and Export option provided. </p>
+<p>This project is created to handle crud operations Created by 
+	
+<ul>
+	<li><b><em>Farah Abderrazzak<em/><b></li>.
+	<li><b><em>Mohammde Sotto<em/><b></li>.
+
+	   
+</p>
 
 ## About Laravel
 
