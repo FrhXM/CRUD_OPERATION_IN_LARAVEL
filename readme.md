@@ -4,8 +4,10 @@
 <p>This project is created to handle crud operations Created by 
 	
 <ul>
-	<li><b><em>Farah Abderrazzak<em/><b></li>.
-	<li><b><em>Mohammde Sotto<em/><b></li>.
+	<li><b><em>Farah Abderrazzak<em/><b></li>
+		<hr/>
+	<li><b><em>Mohammde Sotto<em/><b></li>
+		<hr/>
 
 	   
 </p>
@@ -55,15 +57,3 @@ Official documentation of Yajra DataTables is available at [yajra.com](http://ya
 
 ### Screenshot
 [![Screenshot](https://github.com/amitbauriya/laravel-datatables-crud/blob/master/screenshot.png?raw=true "Screenshot")](https://github.com/amitbauriya/laravel-datatables-crud/blob/master/screenshot.png?raw=true "Screenshot")
-
-### Security Vulnerabilities
-
-------------
-
-
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Amit Bauriya via [farahxm122@gmail.com](mailto:farahxm122@gmail.com). All security vulnerabilities will be promptly addressed.
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
