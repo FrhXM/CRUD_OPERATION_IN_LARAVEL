@@ -6,7 +6,7 @@
 <ul>
 	<li><b><em>Farah Abderrazzak<em/><b></li>
 		<hr/>
-	<li><b><em>Mohammde Sotto<em/><b></li>
+	<li><b><em>Mohammed Sottou<em/><b></li>
 		<hr/>
 
 	   
